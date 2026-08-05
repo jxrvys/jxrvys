@@ -9,6 +9,7 @@ I'm Jarvys, a student, a linux developer, and avid minecraft player (love smashi
 
 ### I also know a bit of
 - C
+- CSS
 - Python
 - I'll probably learn Swift at some point
 
