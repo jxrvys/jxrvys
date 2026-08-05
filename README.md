@@ -13,6 +13,6 @@ I'm Jarvys, a student, a linux developer, and avid minecraft player (love smashi
 - I'll probably learn Swift at some point
 
 ### Extras
-- I do a tiny bit of work with apple jailbreaks
+- I do a tiny bit of work with Darwin Unix
 - I'm also the dev of the ARM64 branch of Nyarch Linux
 - I use Arch btw :3 
