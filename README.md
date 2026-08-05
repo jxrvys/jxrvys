@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**jxrvys/jxrvys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Jarvys, a student, a linux developer, and avid minecraft player (who doesnt love smashing people with da mace) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I mainly use
+- Javascript
+- HTML
+
+# I also know a bit of
+- C
+- Python
+- I'll probably learn Swift at some point
+
+# I also do a tiny bit of work with apple jailbreaks
+# I'm also the dev of the ARM64 branch of Nyarch Linux
