@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm Jarvys, a student, a linux developer, and avid minecraft player (who doesnt love smashing people with da mace) 
+I'm Jarvys, a student, a linux developer, and avid minecraft player (love smashing people with da mace) 
 
 ### I mainly use
 - Javascript
