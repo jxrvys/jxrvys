@@ -18,4 +18,4 @@ I'm Jarvys, a student, a linux developer, and avid minecraft player (maceee hehe
 - I'm also the dev of the ARM64 branch of Nyarch Linux
 - I use Arch btw :3 
 - Aviation nerd
-- neko
+- neko (?)
