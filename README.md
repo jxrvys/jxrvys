@@ -1,4 +1,4 @@
-## Hi there 👋
+## Haii :3
 
 
 I'm Jarvys, a student, a linux developer, and avid minecraft player (maceee hehehe) 
