@@ -19,3 +19,4 @@ I'm Jarvys, a student, a linux developer, and avid minecraft player (maceee hehe
 - I use Arch btw :3 
 - Aviation nerd
 - neko
+- check out my silly website, hosted by Sirro: https://unixcore.sh/jarvys/
